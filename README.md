@@ -4,7 +4,9 @@ A javascript library for formatting and manipulating numbers.
 
 [Website and documentation](http://numeraljs.com/)
 
-# TODO: Extend to include Quadrillion (P), Quintillion (E), Sextillion (Z), Septillion (Y)  as per: http://convertxy.com/index.php/number_prefixes.htm
+# TODO: Extend to include Quadrillion (P), Quintillion (E), Sextillion (Z), Septillion (Y)  
+
+http://convertxy.com/index.php/number_prefixes.htm
 
 # Travis Build Status
 
